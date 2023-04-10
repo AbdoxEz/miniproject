@@ -64,6 +64,8 @@ section{
 h2{ 
     text-align: center;
     font-style: italic;
+    margin-bottom: 16px;
+
 }
 .img-cities{
     width: 185px;
