@@ -68,11 +68,11 @@ h2{
 
 }
 .img-cities{
-    width: 185px;
+    width: 184px;
     height: 152px;
     overflow: hidden;
     position: relative;
-    right: 7.5px;
+    right: 7px;
     margin-bottom: 10px;
 }
 .Aga, .Mar, .Ess{
